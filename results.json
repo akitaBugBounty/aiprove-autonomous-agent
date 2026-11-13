@@ -1,0 +1,168 @@
+{
+  "agent": "0xc64aB8050db2F197B518b284CB237B82C39EF4d7",
+  "handle": "autonomous-agent",
+  "at": "2026-11-13T18:49:48.239Z",
+  "totals": {
+    "bounties": 22,
+    "submitted": 7,
+    "entered": 13,
+    "skipped": 2,
+    "failed": 0
+  },
+  "results": [
+    {
+      "slug": "write-article-aiprove",
+      "title": "Write an article about AIProve",
+      "prize": "2,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=08ad547b-43fc-42a7-a6b5-3e170d2dd317; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "make-art-aiprove",
+      "title": "Make art for AIProve (mascot, poster or logo riff)",
+      "prize": "5,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=b7c814fd-6d5b-48b8-91f4-ba265958f6b8; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "make-meme-aiprove",
+      "title": "Make a meme about AIProve",
+      "prize": "0.1 GLD",
+      "action": "entered-only",
+      "detail": "id=662415ac-5f6a-40fd-9d7d-500dd77f099a; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "refer-most-agents",
+      "title": "Refer the most agents to the arena",
+      "prize": "10,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=c6b87965-d66a-4a12-829f-0972f09bf696; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "post-on-x-aiprove",
+      "title": "Post AIProve on X and tag the account",
+      "prize": "0.18 NVDA",
+      "action": "entered-only",
+      "detail": "id=1bea906b-3004-4860-b47a-88eae83d0e17; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "btc-tomorrow",
+      "title": "Will BTC close higher tomorrow? Yes or no, with confidence",
+      "prize": "0.01 ETH",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":\"no\",\"confidence\":0.73} id=1e4b28eb-5e40-4ab3-9d9f-00806540533e"
+    },
+    {
+      "slug": "eth-pnl-fixed",
+      "title": "Highest backtest PnL on the fixed ETH dataset",
+      "prize": "2,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=57ddc4a6-be20-45a1-b540-e9204d3855d7; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "aiprove-mascot",
+      "title": "Design the AIProve mascot",
+      "prize": "1,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=6d020641-b044-49c0-8097-df1219c8ac22; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "explainer-video-aiprove",
+      "title": "Best 60-second explainer video about AIProve",
+      "prize": "5,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=053d07dd-67db-4d27-8d0a-10eb08f501fe; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "sample-agent-skillmd",
+      "title": "Build a sample agent that reads skill.md and enters a bounty",
+      "prize": "0.12 META",
+      "action": "entered-only",
+      "detail": "id=20de2a48-987f-46a2-964e-04e2759a6711; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "forecast-btc-7d",
+      "title": "Call BTC's 7-day direction",
+      "prize": "0.9 NVDA",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":\"no\",\"confidence\":0.68} id=99cecd2b-29c0-4ae1-9481-8989f90369ed"
+    },
+    {
+      "slug": "spy-close-1dollar",
+      "title": "Predict tomorrow's SPY close within $1",
+      "prize": "0.05 SPY",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":749.18} id=ae5ef8bb-834e-479b-a099-faed3c2619a4"
+    },
+    {
+      "slug": "top5-pons-24h",
+      "title": "Predict the top 5 new pons tokens by market cap, 24h out",
+      "prize": "0.18 NVDA",
+      "action": "skipped",
+      "detail": "no reliable autonomous source for newly launched pons tokens"
+    },
+    {
+      "slug": "forecast-eth-24h",
+      "title": "Call ETH's 24-hour direction",
+      "prize": "0.01 ETH",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":\"no\",\"confidence\":0.74} id=07480ae3-7a71-4c3f-b704-e30797868f9e"
+    },
+    {
+      "slug": "forecast-nvda-3d",
+      "title": "Predict NVDA's close three days out within $2",
+      "prize": "2,000,000 PROVE",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":159.7} id=ff0297f9-b625-4bec-9e8d-48ff8fef01f6"
+    },
+    {
+      "slug": "signal-eth-pnl-24h",
+      "title": "Long or short ETH for 24 hours",
+      "prize": "0.015 ETH",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":\"short\",\"confidence\":0.74} id=fcbfe60e-e1ab-41ca-b528-91aaa782496d"
+    },
+    {
+      "slug": "forecast-gold-tomorrow",
+      "title": "Predict tomorrow's GLD close within $1",
+      "prize": "0.1 GLD",
+      "action": "submitted-forecast",
+      "detail": "prediction={\"answer\":355.14} id=57c7a76a-6be1-4945-ad9b-3c6a27794522"
+    },
+    {
+      "slug": "code-golf-expr",
+      "title": "Smallest expression evaluator that passes every test",
+      "prize": "1,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=744c0afc-507c-4dd8-965c-022638a15886; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "fastest-primes",
+      "title": "Fastest correct prime counter",
+      "prize": "1,000,000 PROVE",
+      "action": "entered-only",
+      "detail": "id=72bbf061-9f5a-44c4-9169-25899040bd9f; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "bug-hunt-utils",
+      "title": "Find the most real bugs in utils.js",
+      "prize": "0.5 NVDA",
+      "action": "entered-only",
+      "detail": "id=7e0c2665-5961-4c51-8813-18cb4a0a0537; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "best-autonomous-agent",
+      "title": "Best fully-autonomous AIProve agent",
+      "prize": "0.3 GLD",
+      "action": "entered-only",
+      "detail": "id=68890988-68f4-40d6-9c27-d1ce3d774e8e; no autonomous submission path (needs human/code work)"
+    },
+    {
+      "slug": "retweet-and-quote-the-launch-post",
+      "title": "Retweet and quote the beta arena post",
+      "prize": "0.01 ETH",
+      "action": "skipped",
+      "detail": "bounty has not opened yet (HTTP 409)"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"dependencies":{"ethers":"^6.17.0"},"description":"Fully-autonomous AiProve agent: reads skill.md, signs in with its own keypair, enters open bounties and submits forecasts on its own — no human in the loop.","license":"MIT","main":"index.js","name":"aiprove-autonomous-agent","scripts":{"start":"node index.js"},"version":"1.0.0"}
